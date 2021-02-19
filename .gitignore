@@ -1,0 +1,10 @@
+*.olean
+/_target
+/leanpkg.path
+/_lean
+*__pycache__
+/venv
+/.vscode
+/data
+/data2
+**/*~
